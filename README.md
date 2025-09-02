@@ -31,13 +31,6 @@ Requitment
 ----------
 - PHP 5
 
-Note
-----------
-First Login(Admin) <br>
-**username**: zuhri <br>
-**password**: 123456 <br>
-Database: MySql <br>
-Name: pis_akademik.sql
 
 Support
 ----------
